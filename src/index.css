@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.post-container {
+  padding: 5px 50px;
+}
+
+.post {
+  border: #282c34 1px solid;
+  border-radius: 10px;
+  background: #fff;
+  margin-bottom: 5px;
+  display: inline-flex;
+  width: 100%;
+}
+
+.post-body {
+  padding-left: 20px;
+}
+
+.post-img {
+  display: flex;
+}
+
+h2 {
+  text-align: center;
+  color: #fff
+}
+
+.App {
+  background-color: #282c34;
+  padding: 20px 0;
+}
